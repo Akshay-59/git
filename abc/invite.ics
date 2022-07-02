@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220707T083000Z
+DTEND:20220707T091500Z
+DTSTAMP:20220622T154525Z
+ORGANIZER;CN=r.delooff@maxxton.com:mailto:r.delooff@maxxton.com
+UID:5kl6dulna3fdn06v88tforh2uh@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=s.jakapure@maxxton.com;X-NUM-GUESTS=0:mailto:s.jakapure@maxxton.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/xew-bciq-etw
+X-MICROSOFT-CDO-OWNERAPPTID:432769388
+CREATED:20220509T081644Z
+DESCRIPTION:Dear colleagues\, \n\nIn this quarterly meeting\, you will rece
+ ive a management update on how we are doing as a company. \n\nThe meeting n
+ otes\, slides and the recording will be shared afterwards on documentation.
+  \n\nKind regards\, \n\nRuben\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nBewerk dit gedeelte van de b
+ eschrijving niet.\n\nDeze afspraak bevat een videogesprek.\nDeelnemen: http
+ s://meet.google.com/xew-bciq-etw\n(NL) +31 20 257 3701 Pincode: 859543363#\
+ nMeer telefoonnummers bekijken: https://tel.meet/xew-bciq-etw?pin=683986954
+ 0280&hs=7\n\nJe afspraak tonen op https://calendar.google.com/calendar/even
+ t?action=VIEW&eid=NWtsNmR1bG5hM2ZkbjA2djg4dGZvcmgydWggcy5qYWthcHVyZUBtYXh4d
+ G9uLmNvbQ&tok=MjEjci5kZWxvb2ZmQG1heHh0b24uY29tYmU3OGFiZjlkZGIwY2Q1Y2ZkOWNhM
+ WNlNDY2YzJkNzFhZGViMDk2Mg&ctz=Europe%2FAmsterdam&hl=nl&es=1.\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220622T154523Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Strategic session Q2 2022
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
